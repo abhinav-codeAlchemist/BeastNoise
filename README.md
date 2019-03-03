@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/BeastNoise.svg)](http://hits.dwyl.io/abhinav-codealchemist/BeastNoise)
 # BeastNoise
 BeatBox Player
 
